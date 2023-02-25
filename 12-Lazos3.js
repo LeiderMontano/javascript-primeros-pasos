@@ -38,5 +38,3 @@ if (ciudadSeleccionada == '')
     console.log("No tenemos pasajes disponibles");
 else
     console.log("Puedes comprar pasaje para: "+ciudadSeleccionada);
-
-
